@@ -5,7 +5,7 @@ O tratamento de dados desempenha um papel crucial no sucesso de projetos de Mach
 Um dos principais desafios enfrentados pelos algoritmos de Machine Learning é lidar com conjuntos de dados muitas vezes complexos e desorganizados. Esses conjuntos de dados podem conter uma variedade de problemas, como valores ausentes, dados inconsistentes, ruído, outliers e até mesmo viés. Sem o tratamento adequado, esses problemas podem distorcer os resultados do modelo e levar a conclusões incorretas.
 O tratamento de dados aborda esses desafios por meio de várias técnicas, incluindo limpeza de dados, imputação de valores ausentes, normalização, padronização, redução de dimensionalidade e seleção de características. Essas etapas visam preparar os dados para análise, eliminando inconsistências, reduzindo a complexidade e destacando os padrões e relações importantes que são essenciais para o treinamento de modelos de Machine Learning e IA.
 
-###Assim sendo o pré-processamento de dados tem como vantagem
+### Assim sendo o pré-processamento de dados tem como vantagem
 
 * **Melhora a qualidade dos dados:** Dados de baixa qualidade podem levar a análises imprecisas e a modelos de Machine Learning pouco confiáveis. O tratamento de dados ajuda a melhorar a qualidade dos dados ao remover inconsistências, corrigir erros, eliminar duplicatas e preencher valores ausentes. Isso garante que os dados utilizados para treinar modelos sejam precisos, confiáveis e representativos do fenômeno ou processo que está sendo analisado.
 
